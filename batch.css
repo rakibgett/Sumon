@@ -1,0 +1,71 @@
+body {
+        margin: 0px;
+        padding: 0px;
+        background:url("wallpaper.jpg");
+
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+}
+h1{
+        margin-top: 20px;
+        margin-left: 30px;
+        text-align: center;
+}
+.rakib{
+        Width:100%;
+        margin-top: 20px;
+        margin-right: 15px;
+       margin-left: 15px;
+       overflow-x: auto;
+}
+.rr{
+        display: flex;
+}
+.hea{
+        background-color: #FCA454;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+}
+.ttt{
+        Overflow-x:auto;
+}
+th, td{
+        border: 1px solid silver;
+        text-align: center;
+}
+tr:nth-child(even) {
+        background-color: white;
+}
+
+tr:nth-child(odd) {
+        background-color: #CBDDD5;
+}
+.sohana{
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        background-color: #D51410;
+        color: #fff;
+}
+.arrow {
+  padding-left: 15px;
+  background-color: #4336FC;
+  height: 30px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  
+}
+  
+.arrow a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.arrow i{
+  color: white;
+}

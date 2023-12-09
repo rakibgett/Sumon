@@ -1,0 +1,140 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(#BAC2FB, #7EE9F2);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+.box{
+  
+  border: 1px solid black;
+  flex-direction: column;
+  height: 520px;
+  display: flex;
+  width: 300px;
+  border-radius:8px; 
+  background-color: white;
+  margin-top: -80px;
+}
+.login{
+background: linear-gradient(to right,#4F56FF, #FF6D9C);
+padding: 10px;
+border-radius: 20px;
+width: 70px;
+}
+.sign{
+  background-color:#EDEBEF;
+  padding: 10px;
+  border-radius: 20px;
+  width: 70px;
+  margin-left: 10px;
+}
+.login a,.sign a{
+  text-decoration: none;
+  font-weight:bold;
+}
+.hhhh {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.hhh{
+  font-size: 30px;
+  font-weight:bold;
+  margin-top:30px;
+    color: linear-gradient(to right,#4F56FF, #E78FF2);
+
+}
+.box p{
+  text-align:left;
+  margin-left: 10px;
+  color:red;
+}
+.login a{
+  color: white;
+}
+.name{
+  display: flex;
+}
+ .name input{
+   padding:5px;
+   width:103px;
+   height: 20px;
+   background-color: #DBE2ED;
+   border:none;
+   border-radius:5px;
+  padding-left: 10px;
+  float:left;
+   margin-left:14px;
+
+ }
+.other input{
+  padding: 5px;
+  margin-top: 7px;
+  border: none;
+  background-color: #dbe2ed;
+  border-radius:5px;
+ margin-left:14px;
+ height: 20px;
+ width: 240px;
+ float: left;
+
+}
+.chek input{
+  margin-top: 10px;
+}
+.button2 button{
+  margin-top: 20px;
+  height: 35px;
+  width: 120px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: black;
+  border-radius: 6px;
+border: none;
+}
+.button2 button a{
+  text-decoration: none;
+  color: white;
+}
+.ses{
+  margin-top: 10px;
+}
+.ses a{
+  text-decoration: none;
+
+}
+.chek.chek2{
+  margin-top: 3px;
+}
+.arrow {
+  margin-top: 30px;
+  padding-left: 15px;
+  background-color: #4336FC;
+  height: 30px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  
+}
+  
+.arrow a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.arrow i{
+  color: white;
+}  margin-top: 200px

@@ -1,0 +1,206 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(#BAC2FB, #7EE9F2);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width:100%;
+}
+.arrow {
+  padding-left: 15px;
+  background-color: #4336FC;
+  height: 30px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  
+}
+  
+.arrow a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.arrow i{
+  color: white;
+}
+.box img{
+  width: 100px;
+  height: 110px;
+}
+.box{
+  width: 210px;
+  background-color:white;
+  box-shadow: 0px 0px 5px 1px #797B92;
+  padding: 10px;
+  
+}
+main{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 30px;
+  position: relative;
+}
+.prin{
+  font-weight: bold;
+  padding: 3px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom:10px;
+}
+  
+.name{
+  font-size: 30px;
+  font-weight: bold;
+}
+.university{
+  font-weight: bold;
+}
+.logo p{
+  width:100%;
+font-size: 35px;
+font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+.lorem p{
+  margin-left: 10px;
+}
+.moha-bisso img{
+  width: 100%;
+  height: 150px;
+}
+.cumpes img{
+  margin-top:10px;
+  width: 160px;
+  height: 120px;
+  padding: 5px;
+  box-shadow: 0px 0px 5px 1px silver;
+  border: 5px solid white;
+  margin-left:7px;
+}
+.cumpes{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  background-color: #32eaff;
+}
+.con a{
+  text-decoration: none;
+  color:white;
+}
+.con{
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  background-color: #3832FF;
+}
+.kha{
+  background-color: #32eaff;
+  width: 100%;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  font-size: 25px;
+  padding-top: 7px;
+  
+}
+.jurny{
+  padding: 7px;
+  background:url("bg.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 350px;
+}
+.hea{
+  padding-left: 8px;
+margin-top: 14px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.jurny ul li{
+  padding:5px;
+  
+}
+.nummb{
+       
+        align-items: center;
+        justify-content:center;
+        font-size: 25px;
+        padding-top: 7px;
+        width: 100%;
+        height: 400px;
+        background-color: #0E539F;
+}
+.nummb a{
+        text-decoration: none;
+        color: white;
+        text-align: center;
+        justify-content: center;
+}
+footer{
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        background-color: #1D2633;
+        color: white;
+}
+.menuu{
+        font-size: 30px;
+        font-weight: bold;
+        padding: 15px;
+        
+}
+.icon{
+        margin: 20px;
+        display: flex;
+        justify-content:center;
+}
+.facebook,.icon2,.icon3,.icon4{
+  color:white;
+  margin: 5px;
+}
+.facebook{
+        width: 30px;
+        height: 30px;
+        background-color:#2B3ED7;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+}
+.icon2{
+  width:30px;
+  height:30px;
+  background-color:#64B5F6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.icon3{
+  width:30px;
+  height:30px;
+  background-color:#F06292;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.icon4{
+  width:30px;
+  height:30px;
+  background-color:red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
